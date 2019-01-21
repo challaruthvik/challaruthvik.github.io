@@ -161,8 +161,8 @@ img.svg{
 .arlo_tm_leftpart_wrap .logo_wrap{
 	background-color: #041230;
 	padding: 50px 20px;
-	width: 100%;
-	float: left;
+	width: 75%;
+	float: middle;
 	text-align: center;
 	margin-bottom: 50px;
 	border-bottom: 1px solid rgba(255,255,255,.1);
