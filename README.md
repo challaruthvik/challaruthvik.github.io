@@ -1,2 +1,0 @@
-# challaruthvik.github.io
-sweety
